@@ -1,9 +1,9 @@
-2024-03-17 20:16:54,086 - INFO - START inventory_your_python =============================================
-2024-03-17 20:16:54,086 - INFO - START inventory_your_python Start Time = 2024-03-17 20:16:54
-2024-03-17 20:16:54,086 - INFO - inventory_your_python Step 0 - Initialize the configuration file parser
-2024-03-17 20:16:54,087 - INFO - Process inventory_your_python Step 0 - Initializing and starting Logging Process.
-2024-03-17 20:16:54,590 - INFO - PERFORMANCE inventory_your_python The total process duration was:0.50
-2024-03-17 20:16:54,590 - INFO - PERFORMANCE inventory_your_python Stop Time = 2024-03-17 20:16:54
-2024-03-17 20:16:54,591 - INFO - PERFORMANCE inventory_your_python Short process duration less than 3 Seconds:0.50
-2024-03-17 20:16:54,591 - INFO - PERFORMANCE inventory_your_python Performance optimization is not reccomended
-2024-03-17 20:16:54,591 - INFO - END inventory_your_python =============================================
+2024-03-31 21:32:54,903 - INFO - START inventory_your_python =============================================
+2024-03-31 21:32:54,903 - INFO - START inventory_your_python Start Time = 2024-03-31 21:32:54
+2024-03-31 21:32:54,904 - INFO - inventory_your_python Step 0 - Initialize the configuration file parser
+2024-03-31 21:32:54,904 - INFO - Process inventory_your_python Step 0 - Initializing and starting Logging Process.
+2024-03-31 21:32:55,436 - INFO - PERFORMANCE inventory_your_python The total process duration was:0.53
+2024-03-31 21:32:55,436 - INFO - PERFORMANCE inventory_your_python Stop Time = 2024-03-31 21:32:55
+2024-03-31 21:32:55,436 - INFO - PERFORMANCE inventory_your_python Short process duration less than 3 Seconds:0.53
+2024-03-31 21:32:55,436 - INFO - PERFORMANCE inventory_your_python Performance optimization is not reccomended
+2024-03-31 21:32:55,436 - INFO - END inventory_your_python =============================================
