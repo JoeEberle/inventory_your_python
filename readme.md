@@ -46,4 +46,7 @@ To get started with the **Inventory Your Python** solution repository, follow th
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](inventory_your_python.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](inventory_your_python.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
