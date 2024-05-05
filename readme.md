@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Inventory Your Python - inventory_your_python
 inventory_your_python
 
@@ -9,8 +11,6 @@ Welcome to the solution **Inventory Your Python** - an example for your projects
 inventory_your_python
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
