@@ -29,13 +29,13 @@ To get started with the **Inventory Your Python** solution repository, follow th
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
-## Solution Features
+## 🧠 Solution Features
 
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
+- ✅ Easy to understand and use  
+- ✅ Easily Configurable 
+- ✅ Quickly start your project with pre-built templates
+- ✅ Its Fast and Automated
+- ✅ Saves You Time 
 
 
 
